@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Exense_Tracker_React/static/css/main.90dcb38c.css",
+    "main.js": "/Exense_Tracker_React/static/js/main.30b98aac.js",
+    "index.html": "/Exense_Tracker_React/index.html",
+    "main.90dcb38c.css.map": "/Exense_Tracker_React/static/css/main.90dcb38c.css.map",
+    "main.30b98aac.js.map": "/Exense_Tracker_React/static/js/main.30b98aac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90dcb38c.css",
+    "static/js/main.30b98aac.js"
+  ]
+}
